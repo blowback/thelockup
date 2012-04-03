@@ -1,0 +1,84 @@
+body
+{
+	color: #FFC;
+}
+
+table
+{
+	width: 100%;
+}
+
+table, #info, #view
+{
+	font-family: Helvetica;
+	font-size: 12pt;
+}
+
+#index, #view
+{
+	background: #282828;
+}
+
+#info, #drum
+{
+	background: #242424;
+}
+
+ol
+{
+	list-style-type: none;
+}
+
+li a
+{
+	margin-left: 20px;
+}
+
+li a.email
+{
+	margin-left: 0px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+h3
+{
+	margin-left: 20px;
+}
+
+.logo
+{
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+.text
+{
+	margin-left: 10px;
+}
+
+.image
+{
+	border: solid #FFC;
+}
+
+#view .image
+{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.text img
+{
+	float: left;
+	margin-right: 10px;
+}
+
+a
+{
+	text-decoration: none;
+	color: cyan
+}
